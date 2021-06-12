@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets(1850,5): warning : The referenced project '..\Utils\Utils.vcxproj' does not exist.
+  Generating code
+  2 of 979 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    39 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Main.vcxproj -> C:\Users\Alex\source\repos\EKF-SLAM\x64\Release\Main.exe

@@ -1,0 +1,3 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets(1850,5): warning : The referenced project '..\Utils\Utils.vcxproj' does not exist.
+lib_png_utils.obj : warning LNK4006: "class PngImage __cdecl createRed(int,int)" (?createRed@@YA?AVPngImage@@HH@Z) already defined in main.obj; second definition ignored
+  LibPngUtils.vcxproj -> C:\Users\Alex\source\repos\EKF-SLAM\x64\Debug\LibPngUtils.lib

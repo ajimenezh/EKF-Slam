@@ -1,0 +1,13 @@
+﻿  EkfSlam.cpp
+C:\Users\Alex\source\repos\EKF-SLAM\EKF-SLAM\Robot.h(44,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Alex\source\repos\EKF-SLAM\EKF-SLAM\Robot.h(186,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Alex\source\repos\EKF-SLAM\EKF-SLAM\Robot.h(190,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Alex\source\repos\EKF-SLAM\LibPngUtils\PngImage.h(53,48): warning C4244: '=': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Alex\source\repos\EKF-SLAM\EKF-SLAM\EkfSlam.cpp(45,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Alex\source\repos\EKF-SLAM\EKF-SLAM\EkfSlam.cpp(76,36): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Alex\source\repos\EKF-SLAM\EKF-SLAM\EkfSlam.cpp(212,36): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  EKF-SLAM.vcxproj -> C:\Users\Alex\source\repos\EKF-SLAM\x64\Release\EKF-SLAM.lib

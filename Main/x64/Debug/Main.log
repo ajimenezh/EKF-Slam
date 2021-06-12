@@ -1,0 +1,2 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets(1850,5): warning : The referenced project '..\Utils\Utils.vcxproj' does not exist.
+  Main.vcxproj -> C:\Users\Alex\source\repos\EKF-SLAM\x64\Debug\Main.exe

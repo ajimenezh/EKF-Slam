@@ -1,0 +1,4 @@
+C:\Users\Alex\source\repos\Reachability - copia\x64\Debug\LibPngUtils.pdb
+C:\Users\Alex\source\repos\Reachability - copia\LibPngUtils\x64\Debug\LibPngUtils.pdb
+C:\Users\Alex\source\repos\EKF-SLAM\x64\Debug\LibPngUtils.pdb
+C:\Users\Alex\source\repos\EKF-SLAM\LibPngUtils\x64\Debug\LibPngUtils.pdb
